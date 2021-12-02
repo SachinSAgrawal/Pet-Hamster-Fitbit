@@ -1,0 +1,23 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 55; font-family: System-Bold; text-length: 32; text-anchor: end; x: 97%; y: 18%; fill: #FFFFFF;
+}
+
+#lvlsteps {
+  font-size: 30; font-family: System-Regular; text-length: 9; text-anchor: end; x: 97%; y: 95%; fill: #FFFFFF;
+}
+
+.rim { 
+  width: 65; height: 140; x: 10; y: 10; fill: #DCDCDC; 
+}
+
+.metal { 
+  width: 50; height: 20; x: 6%; y: 50%; fill: #A9A9A9; 
+}
+
+.bowl { 
+  width: 60; height: 13; x: 11%; y: 81%; fill: #74B72E;
+}

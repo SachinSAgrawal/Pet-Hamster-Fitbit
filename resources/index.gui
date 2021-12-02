@@ -1,0 +1,23 @@
+<svg class="background">
+  <text id="myLabel" />
+  <text id="lvlsteps" />
+  <rect class="rim"/>
+  <image id="myBatteryLevels" x="12" y="12" width="61" height="136" href="100batlvl.png" />
+  <rect class="metal" />
+  <line x1="37" y1="163" x2="60" y2="189" fill="#A9A9A9" stroke-width="10" />
+  <circle cx="63%" cy="53%" r="85" fill="red"/>
+  <circle cx="63%" cy="53%" r="77" fill="black"/>
+  <g pointer-events="visible" transform="translate(63%,53%)">
+    <animateTransform attributeType="rotate" begin="load" repeatCount="indefinite" from="0" to="360" dur="2" />
+    <rect x="$-1" y="$-77" width="3" height="51%" fill="#2F4F4F" />
+  </g>
+  <circle cx="63%" cy="53%" r="15" fill="fb-yellow"/>
+  <circle cx="21%" cy="85%" r="30" fill="#74B72E"/>
+  <rect class="bowl"/>
+  <circle cx="21%" cy="81%" r="30" fill="#74B72E"/>
+  <circle cx="21%" cy="81%" r="25" fill="#AEF359"/>
+  <circle id="pellet1" cx="20%" cy="77%" r="6" fill="#DEB887" />
+  <circle id="pellet2" cx="24%" cy="82%" r="6" fill="#DEB887" />
+  <circle id="pellet3" cx="18%" cy="83%" r="6" fill="#DEB887" />
+  <use id="myAnimation" href="#frames" />
+</svg>

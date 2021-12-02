@@ -1,0 +1,11 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
+    <symbol id="frames" href="#sprite-image">
+      <animate id="anim" attributeName="value" begin="enable"
+          from="1" to="4" dur="0.4" repeatCount="indefinite" />
+      <image id="hamster" href="h1-frame_1.png" width="25%" height="20%" x="165" y="182" pointer-events="visible"/>
+    </symbol>
+  </defs>
+</svg>
