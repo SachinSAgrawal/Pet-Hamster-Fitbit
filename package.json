@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "d3e4deb8-3de4-4dc6-9d4a-e6d7519a4fbd",
+    "appType": "app",
+    "appDisplayName": "Pet Hamster",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffc107",
+    "requestedPermissions": [
+      "access_activity"
+    ],
+    "buildTargets": [
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Pet Hamster"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
