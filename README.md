@@ -1,6 +1,7 @@
 # Pet Hamster App for Fitbit Versa, Versa Lite, and Versa 2
 
-![screenshot](Pet-Hamster-screenshot.png)
+![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
 
 - Watch the hamster run on the wheel in his cage. 
 - The level is based on your step count.
