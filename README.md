@@ -8,5 +8,8 @@
 - The water bottle is a battery level indicator.
 - The food pellets disappear based on your calories.
 - The hamster has a lighter and darker coloring option.
-- Fitbit App Gallery Link:
+
+## Fitbit App Gallery Link:
 https://gallery.fitbit.com/details/d3e4deb8-3de4-4dc6-9d4a-e6d7519a4fbd
+
+If you like this app, consider subscribing to [my YouTube Channel](https://www.youtube.com/c/ScinovusCrafted)!
