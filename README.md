@@ -1,6 +1,6 @@
 # Pet Hamster App
 
-![screenshot](screenshot.png)
+![screenshot](screenshot1.png)
 ![screenshot](screenshot2.png)
 
 ## About:
