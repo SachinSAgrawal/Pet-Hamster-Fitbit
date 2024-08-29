@@ -1,23 +1,39 @@
-.background {
+#background {
   viewport-fill: black;
 }
 
-#myLabel {
-  font-size: 55; font-family: System-Bold; text-length: 32; text-anchor: end; x: 97%; y: 18%; fill: #FFFFFF;
+#time {
+  font-size: 24; font-family: System-Bold; text-length: 32; text-anchor: end; x: 97%; y: 9%; fill: #FFFFFF;
 }
 
-#lvlsteps {
-  font-size: 30; font-family: System-Regular; text-length: 9; text-anchor: end; x: 97%; y: 95%; fill: #FFFFFF;
+#happiness {
+  font-size: 30; font-family: System-Regular; text-length: 32; text-anchor: end; x: 97%; y: 20%; fill: #FFFFFF;
 }
 
-.rim { 
+#steps {
+  font-size: 30; font-family: System-Regular; text-length: 32; text-anchor: end; x: 97%; y: 92%; fill: #FFFFFF;
+}
+
+#bottleOutline { 
   width: 65; height: 140; x: 10; y: 10; fill: #DCDCDC; 
 }
 
-.metal { 
+#bottleInside {
+  width: 61; height: 136; x: 12; y: 12; fill: #000000;
+}
+
+#bottleMetal { 
   width: 50; height: 20; x: 6%; y: 50%; fill: #A9A9A9; 
 }
 
-.bowl { 
-  width: 60; height: 13; x: 11%; y: 81%; fill: #74B72E;
+#batteryLevel {
+  width: 61; height: 136; x: 12; y: 12; /* Color from JS */
+}
+
+#bowlConnector { 
+  width: 60; height: 13; x: 11%; y: 78%; fill: #74B72E;
+}
+
+#subscribe { 
+  font-size: 10; font-family: System-Bold; text-anchor: start; y: 293; x: 20; fill: white;
 }
