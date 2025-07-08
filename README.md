@@ -24,8 +24,8 @@ If you find one, feel free to open up a new issue or even better, create a pull 
 ## Support
 For support and FAQs, please check out my website [sagrawal8fitbit.dev](https://sagrawal8fitbit.dev).
 
-## Author
-I'm a self-taught programmer who knows many languages and I'm into app, game, and web development. If you would like to contact me, my email is [sagrawal8.fitbit.dev@gmail.com](mailto:sagrawal8.fitbit.dev@gmail.com?subject=Pet_Hamster_Github).
+## Contributors
+Sachin Agrawal: I'm a self-taught programmer who knows many languages and I'm into app, game, and web development. For more information, check out my website or Github profile. If you would like to contact me, my email is [sagrawal8.fitbit.dev@gmail.com](mailto:sagrawal8.fitbit.dev@gmail.com?subject=Pet_Hamster_Github).
 
 ## License
 This package is licensed under the [MIT License](LICENSE.txt).
